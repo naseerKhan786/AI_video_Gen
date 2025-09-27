@@ -34,3 +34,11 @@ app.use((err, req, res, next) => {
 app.listen(port, () => {
   console.log(`🚀 Video AI Generator running at http://localhost:${port}/`);
 });
+/**
+ * AI Video Generator
+ * Original code by: LohiyaH
+ * Modified by: Your Name (if you made changes)
+ *
+ * Backend: Node.js + Express
+ * Frontend: React + Tailwind CSS
+ */
