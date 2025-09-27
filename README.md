@@ -20,3 +20,9 @@ npm install
 - Backend: Node.js + Express
 - Frontend: React + Tailwind CSS
 - Placeholder video content: [Sample-Videos.com](https://sample-videos.com/)
+## Credits / Acknowledgements
+
+- This project is based on code originally created by **LohiyaH**.
+- Backend: Node.js + Express
+- Frontend: React + Tailwind CSS
+- Placeholder video content: [Sample-Videos.com](https://sample-videos.com/)
