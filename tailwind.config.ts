@@ -124,3 +124,11 @@ const config: Config = {
 };
 
 export default config;
+/**
+ * AI Video Generator
+ * Original code by: LohiyaH
+ * Modified by: Your Name (if you made changes)
+ *
+ * Backend: Node.js + Express
+ * Frontend: React + Tailwind CSS
+ */
