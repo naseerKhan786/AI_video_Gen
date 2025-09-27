@@ -1,0 +1,18 @@
+video-ai-generator/
+├── backend/
+│   ├── server.js           # Express server
+│   ├── generateVideo.js    # AI video generation logic
+│   ├── package.json        # Backend dependencies
+│   └── .env                # Environment variables (API keys, PORT)
+│
+├── frontend/
+│   ├── package.json        # Frontend dependencies
+│   ├── tailwind.config.ts  # Tailwind CSS configuration
+│   ├── postcss.config.js   # PostCSS setup
+│   ├── public/             # Static frontend assets (index.html, images)
+│   └── src/
+│       ├── index.tsx       # React entry point
+│       ├── App.tsx         # Main app component
+│       └── components/     # Reusable components (VideoCard, PromptForm)
+│
+└── README.md               # Project documentation
