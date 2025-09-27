@@ -14,3 +14,9 @@ A Node.js + Express API to generate videos from text prompts using AI.
 git clone https://github.com/your-username/video-ai-generator.git
 cd video-ai-generator
 npm install
+## Credits / Acknowledgements
+
+- This project is based on code originally created by **LohiyaH**.
+- Backend: Node.js + Express
+- Frontend: React + Tailwind CSS
+- Placeholder video content: [Sample-Videos.com](https://sample-videos.com/)
