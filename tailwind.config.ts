@@ -127,7 +127,7 @@ export default config;
 /**
  * AI Video Generator
  * Original code by: LohiyaH
- * Modified by: Your Name (if you made changes)
+ * Modified by: Nasir_AI
  *
  * Backend: Node.js + Express
  * Frontend: React + Tailwind CSS
